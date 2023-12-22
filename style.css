@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+#FamilyLog{
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+}
+#Download1{
+    font-size: 86%;
+}
+#Download2{
+    font-size: 86%;
+}
+.row{
+    margin-right: 0% !important;
+}
+
+/* section 2 */
+
+.Font1{
+    
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+@media only screen and (max-width: 573px) {
+    #KishorBhai{
+      width:35%;
+    }
+    p{
+        font-size: 80%;
+        font-family: 'PT Serif', serif;
+    }
+    .Text-MyFamily{
+        text-align: justify;
+    }
+    h1{
+        font-size: 135% !important;
+    }
+  }
+
+.fa-video:hover{
+    color: #537188 !important;
+}
